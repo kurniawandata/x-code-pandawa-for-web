@@ -7,7 +7,7 @@ while [[ $again == 'Y' ]] || [[ $again == 'y' ]];
 do
 clear
 echo "=================================================================";
-echo " X-code Pandawa for web (16.04)               ";
+echo " X-code Pandawa for web (Ubuntu 16.04)               ";
 echo " Progammer : Kurniawan. xcode.or.id                              ";
 echo " Version 1.0.0 - 18/10/2018                                      ";
 echo "=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=";
