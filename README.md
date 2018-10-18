@@ -3,6 +3,17 @@ Membuat virtual host dengan mudah dan cepat di VPS
 
 # xcodepandawastandardstable
 
+Cara menjalankan
+----------------
+
+git clone https://github.com/kurniawandata/x-code-pandawa-for-web/
+
+cd x-code-pandawa-for-web
+
+chmod -R 777 *
+
+./web.sh
+
 Support gratis
 --------------
 
