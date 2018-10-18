@@ -1,5 +1,5 @@
 # x-code-pandawa-for-web
-Membuat virtual host dengan mudah dan cepat di VPS
+Membuat virtual host di apache server dengan mudah dan cepat di VPS
 
 # xcodepandawastandardstable
 
