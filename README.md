@@ -17,7 +17,7 @@ chmod -R 777 *
 Progammer 
 ---------
 
-- Programmer : Kurniawan. xcode.or.id. E-mail : kurniawan@securityhub.id
+- Programmer : Kurniawan. xcode.or.id. E-mail : kurniawanajazenfone@gmail.com
 
 License
 ------- 
